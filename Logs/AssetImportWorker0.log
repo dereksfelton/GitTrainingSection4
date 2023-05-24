@@ -349,3 +349,29 @@ Start importing Assets/Levels/thread needle using Guid(ac21a0c311904b54db6b814ac
  -> (artifact id: 'c269a6f089be1b0562a9f8b44b290f7c') in 0.005564 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1637.503770 seconds.
+  path: Assets/Levels/chompers.unity
+  artifactKey: Guid(de9c081d1ae006247bb8224e42627eae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Levels/chompers.unity using Guid(de9c081d1ae006247bb8224e42627eae) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '23f3dd6c12361c68a3d03d5716609e20') in 0.031880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 311.359519 seconds.
+  path: Assets/Rocket Ship.prefab
+  artifactKey: Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rocket Ship.prefab using Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11a95e5e6d5687eb39ffb5934ea31cbe') in 0.245669 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 51
+========================================================================
+Received Import Request.
+  Time since last request: 0.701188 seconds.
+  path: Assets/Rocket Ship.prefab
+  artifactKey: Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Rocket Ship.prefab using Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '07ae8168dbb86743fd45b27e449570f8') in 0.069947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 48
