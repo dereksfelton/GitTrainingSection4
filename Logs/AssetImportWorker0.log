@@ -375,3 +375,20 @@ Start importing Assets/Rocket Ship.prefab using Guid(b50165df3e0f64bd38ace19f08d
  -> (artifact id: '07ae8168dbb86743fd45b27e449570f8') in 0.069947 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 48
+========================================================================
+Received Import Request.
+  Time since last request: 155.742138 seconds.
+  path: Assets/Rocket Ship.prefab
+  artifactKey: Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rocket Ship.prefab using Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fbf041fe02aabe8007999445310b74') in 0.038968 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 51
+========================================================================
+Received Import Request.
+  Time since last request: 0.914871 seconds.
+  path: Assets/Rocket Ship.prefab
+  artifactKey: Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Rocket Ship.prefab using Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0f3c93c9ccc7106f157c7024cc8c27cb') in 0.023019 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 48
